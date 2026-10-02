@@ -125,6 +125,16 @@ The objective of this project was to practice SQL on a large real-world dataset 
 
 The analysis focuses mainly on understanding **track popularity, genres, artists, and Spotify audio features**.
 
+## Files
+spotify_tracks_analysis.sql – Database setup, data import, validation, and analysis queries.
+
+## Conclusion
+This project helped me practice SQL on a large dataset and explore relationships between Spotify track characteristics, genres, artists, and popularity. The analysis focuses on identifying patterns in the data rather than assuming that audio features directly cause popularity.
+
+
 ## ⚠️ Note
 
 Popularity and audio-feature comparisons in this project show relationships in the dataset. They should not be interpreted as proof that one feature directly causes a track to become more popular.
+
+### Author
+Rahul Ballidav
