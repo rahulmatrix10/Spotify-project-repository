@@ -2,7 +2,7 @@
 
 SQL + Power BI analysis of 113,550 Spotify tracks across 114 genres, looking at what actually relates to popularity: danceability, genre, explicit content, and more.
 
-![Dashboard](dashboard.png)
+![Dashboard](Screenshot 2026-10-04 132755.png)
 
 ## What's in this repo
 - `spotify_analysis.sql` — full script: database setup, data load (including fixes for a non-UTF8 source file and embedded quote characters), validation checks, and 20 business-question queries
